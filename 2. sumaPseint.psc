@@ -1,6 +1,6 @@
-Función resultado <- sumar (num1,num2)
+FunciÃ³n resultado <- sumar (num1,num2)
 	resultado <- (num1+num2)
-FinFunción
+FinFunciÃ³n
 
 Algoritmo funciones
 	sum <- sumar(15,12)
