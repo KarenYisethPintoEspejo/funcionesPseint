@@ -1,6 +1,6 @@
-Función resultado <- division (num1,num2)
+FunciÃ³n resultado <- division (num1,num2)
 	resultado <- (num1/num2)
-FinFunción
+FinFunciÃ³n
 
 Algoritmo funciones
 	div <- division(2,7)
